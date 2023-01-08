@@ -1,0 +1,153 @@
+var data =[
+    {
+        "InvoiceId": "1",
+        "ClientName": "John Doe",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId": "2",
+        "ClientName": "Henry",
+        "ClientType": "Out-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId": "3",
+        "ClientName": "Tom",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId": "4",
+        "ClientName": "Frank B",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId": "5",
+        "ClientName": "Mark  Austin",
+        "ClientType": "Out-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId": "6",
+        "ClientName": "Tommy R",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Partial Payment"
+    },
+
+    {
+        "InvoiceId": "7",
+        "ClientName": "R.G.D.Allen",
+        "ClientType": "Out-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId": "8",
+        "ClientName": "John Lenno ",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId": "9",
+        "ClientName": "Richard W. ",
+        "ClientType": "Out-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId": "10",
+        "ClientName": "Alfred G. ",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId": "11 ",
+        "ClientName": "Mark Z.",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId": "12",
+        "ClientName": "Thomas Lynial",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Draft"
+    },
+    {
+        "InvoiceId": "13 ",
+        "ClientName": "Jason Jornal",
+        "ClientType": "Out-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Paid"
+    },
+    {
+        "InvoiceId": "14",
+        "ClientName": "Micheal Strikes ",
+        "ClientType": "In-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Partial Payment"
+    },
+    {
+        "InvoiceId": "15",
+        "ClientName": "Jenson Clerk ",
+        "ClientType": "Out-State",
+        "Date": "5/11/2019",
+        "DueDate": "12/11/2019",
+        "Total": "$678.00",
+        "Balance": "$678.00",
+        "Status": "Draft"
+    }
+]
