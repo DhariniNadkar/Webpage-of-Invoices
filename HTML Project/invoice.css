@@ -1,0 +1,39 @@
+
+      .myDiv {
+        background-color: rgba(199, 159, 199, 0.756);    
+        border-radius :10 px;
+      }
+      input, select, label {
+        display:block; 
+      }
+      table, th, td {
+        border: 0px ;
+        border-radius: 10px;
+        padding:40px
+      }
+      table {
+        border-spacing: 20px;
+        border-collapse: collapse;
+        width: 100%;
+        border: 0px ;
+      }
+
+      .blank_row {
+        /* line-height: 3px; */
+        border-radius: 10px;
+        /* hjhjjn */
+      }
+      .draftClass{
+        background-color:red;
+        /* background-color: #cfbef3;
+        background-color: #7a65e0; */
+       
+      }
+      .paidClass{
+        background-color:#cfbef3;
+      }
+      .partialPaymentClass {
+        background-color: #7a65e0;
+      }
+
+    
